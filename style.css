@@ -59,7 +59,7 @@ li{
     background: linear-gradient(to bottom, darkgray, gray 100%);
     background-color: #ffc477;
     border-radius: 6px;
-    border: 1px solid #eeb44f;
+    border: 1px solid gray;
     display: inline-block;
     cursor: pointer;
     color: #ffffff;
@@ -68,5 +68,5 @@ li{
     font-weight: bold;
     padding: 6px 24px;
     text-decoration: none;
-    text-shadow: 0px 1px 0px #cc9f52;
+    text-shadow: 0px 1px 0px darkgray;
 }
